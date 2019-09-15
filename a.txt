@@ -6,4 +6,4 @@ dev
 master
 dev2
 https://github.com/zhjzlz/day0915_1.git
-
+git clone https://github.com/zhjzlz2/day0915_1.git
